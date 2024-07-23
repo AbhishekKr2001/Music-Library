@@ -1,0 +1,9 @@
+.bc {
+    background-color: rgb(179, 178, 177);
+}
+
+.ho:hover {
+
+    border-radius: 10px;
+    background-color: rgb(219, 219, 219);
+}
